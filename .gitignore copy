@@ -1,0 +1,15 @@
+.git
+node_modules
+.cache/
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
+.idea/
+/package-lock.json
+/yarn-error.log
+.sass-cache/
+.nvm/
+talisman_reports/
+.history
